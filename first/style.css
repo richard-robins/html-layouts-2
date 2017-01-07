@@ -1,0 +1,103 @@
+.boxcontainer {
+  margin: 50px;
+  background: none;
+  height: 150px;
+  background: none;
+  position: relative;
+
+}
+
+
+.box {
+  height: 120px;
+  width: 30%;
+  margin: 0px;
+  padding: 0px;
+  background: #D0021B;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+
+}
+
+.second {
+  background: #4A90E2;
+  position: absolute;
+  top: 0px;
+  left: 35%;
+}
+
+.third {
+  background: #4A4A4A;
+  top: 0;
+  left: 70%;
+}
+
+.textbox {
+  margin: 50px;
+  font-family: sans-serif;
+}
+
+
+.boxcontainer2 {
+  position: relative;
+  margin: 50px;
+}
+
+.box2 {
+  height: 200px;
+  width: -80%;
+  margin: 0px;
+  padding: 5px;
+  background: #4A90E2;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0;
+}
+
+.box2second {
+  background: #D0021B;
+  width: 30%;
+  position: absolute;
+  left: 0px;
+}
+
+
+.boxcontainer3 {
+  background: orange;
+  margin: 50px;
+}
+
+.box3 {
+  height: 200px;
+  width: 5%;
+  margin: 0px;
+  padding: 5px;
+  background: #D0021B;
+  top: 0px;
+  left: 0px;
+  right: 0;
+  float: right;
+}
+
+.box3second {
+  background: #4A4A4A;
+  width: 20%;
+  left: 0px;
+  float: right;
+}
+
+.box3third {
+  background: #D0021B;
+  width: 5%;
+  left: 0px;
+  float: right;
+}
+
+.box3fourth {
+  background: #4A90E2;
+  width: 65%;
+  left: 0px;
+  float: right;
+}
