@@ -24,12 +24,23 @@ body {
 
 }
 
-.paragraph {
-  margin-auto;
-  font-family: Helvetica, Arial;
-  <padding-left: 20px;
-  <padding-right;
+.textContainer {
+  position: relative;
+  top: 20px;
+  left: 20px;
+
 }
+
+
+
+.paragraph {
+  /*margin-auto;*/
+  font-family: sans-serif;, Arial;
+  position: absolute;
+  
+}
+
+
 .button {
   font-family: Helvetica, Arial;
   background: #D0021B;
@@ -53,7 +64,7 @@ body {
 
 
 .imageContainer {
-  height: 30%;
+  height: 50%;
   width: 90%;
   background: #fff;
   margin-top: 20px;
